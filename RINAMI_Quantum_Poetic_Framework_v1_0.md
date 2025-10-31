@@ -80,3 +80,8 @@ RINAMIは、詩を完全に解析することではなく、
 
 🩵 **File name suggestion:**  
 `RINAMI_Quantum_Poetic_Framework_v1_0.md`
+
+	•	Commit message:
+Add RINAMI Quantum Poetic Framework v1.0
+	•	Description (optional):
+Emotion Layer redefined as Quantum Layer — integrated philosophical basis for Phase12.
